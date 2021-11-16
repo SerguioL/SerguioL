@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Serguio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serguio&show_icons=true&theme=darcula)
+![Serguio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerguioL&show_icons=true&theme=darcula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerguioL&layout=compact)](https://github.com/SerguioL/github-readme-stats)
 
