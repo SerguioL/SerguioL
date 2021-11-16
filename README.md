@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Serguio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serguio Landa&show_icons=true&theme=darcula)
+![Serguio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerguioL&show_icons=true&theme=darcula)
 
 
 <!--
