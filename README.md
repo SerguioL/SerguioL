@@ -2,7 +2,8 @@
 
 ![Serguio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serguio&show_icons=true&theme=darcula)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerguioL&langs_count=8&layout=compact&theme=chartreuse-dark)](https://github.com/Serguio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerguioL&layout=compact)](https://github.com/SerguioL/github-readme-stats)
+
 
 <!--
 **SerguioL/SerguioL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
