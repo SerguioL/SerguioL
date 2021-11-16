@@ -2,7 +2,7 @@
 
 ![Serguio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerguioL&show_icons=true&theme=darcula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerguioL&layout=compact)](https://github.com/SerguioL/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerguioL&layout=compact&theme=darcula)](https://github.com/SerguioL/github-readme-stats)
 
 
 <!--
