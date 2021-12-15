@@ -1,6 +1,10 @@
 ### Hi my name is Serguio 👋
 
+# I enjoy problem solving and collaborating with others
 
+# I also enjoy working in both the frontend and backend development 
+
+# You can contact me at serguio.l.landa@gmail.com or connect with me on Linkedin at https://www.linkedin.com/in/serguio-landa/
 
 ![Serguio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerguioL&show_icons=true&theme=darcula)
 
